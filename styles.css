@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	gap:2px;
+	
+}
+.holder div{
+	margin:2px;
+	padding:5px;
+	
+}
